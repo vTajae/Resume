@@ -1,0 +1,256 @@
+{
+    "basics": {
+        "name": "Tajae Johnson",
+        "label": "Full Stack Developer | Software Engineer",
+        "image": "",
+        "email": "TajaeJohnson@proton.me",
+        "phone": "+1 (213) 316 8984",
+        "url": "",
+        "summary": "<p>As a proficient computer science connoisseur, I possess specialized skills in object-oriented programming and User Interface Development. My foremost priorities when devising and implementing solutions are optimizing efficiency and ensuring security.</p>",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Houston, Texas",
+            "countryCode": "",
+            "region": ""
+        },
+        "relExp": "4 years",
+        "totalExp": "7 Years",
+        "objective": "<p>I strive to build impactful solutions that advance humanity, within a company that shares my values. I seek an inclusive culture that fosters creativity and offers opportunities for long-term growth and leadership.&nbsp;I aim to architect innovative projects that optimize programming practices and improve the software development lifecycle.</p>",
+        "profiles": [
+            {
+                "network": "linkedin",
+                "username": "TajaeJohnson",
+                "url": "https://www.linkedin.com/in/tajaejohnson/"
+            },
+            {
+                "network": "twitter",
+                "username": "janedoe",
+                "url": ""
+            },
+            {
+                "network": "github",
+                "username": "vTajae",
+                "url": "https://github.com/vTajae/"
+            },
+            {
+                "network": "hackerrank",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "hackerearth",
+                "username": "janedoe",
+                "url": ""
+            },
+            {
+                "network": "codechef",
+                "username": "janedoe",
+                "url": ""
+            },
+            {
+                "network": "leetcode",
+                "username": "",
+                "url": "https://leetcode.com/u/vTajae/"
+            }
+        ]
+    },
+    "skills": {
+        "languages": [
+            {
+                "name": "Typescript",
+                "level": 100
+            },
+            {
+                "name": "Python",
+                "level": 70
+            },
+            {
+                "name": "Java",
+                "level": 60
+            },
+            {
+                "name": "Rust",
+                "level": 27
+            }
+        ],
+        "frameworks": [
+            {
+                "name": "Remix",
+                "level": 100
+            },
+            {
+                "name": "Maven",
+                "level": 75
+            },
+            {
+                "name": "Django",
+                "level": 65
+            }
+        ],
+        "technologies": [
+            {
+                "name": "Node.js",
+                "level": 3
+            },
+            {
+                "name": "Spring Boot",
+                "level": 0
+            },
+            {
+                "name": "FastAPI",
+                "level": 0
+            }
+        ],
+        "libraries": [
+            {
+                "name": "React",
+                "level": 0
+            },
+            {
+                "name": "Redux",
+                "level": 3
+            },
+            {
+                "name": "GraphQL",
+                "level": 1
+            },
+            {
+                "name": "MUI",
+                "level": 1
+            },
+            {
+                "name": "QueryDSL",
+                "level": 0
+            },
+            {
+                "name": "LlamaIndex",
+                "level": 0
+            }
+        ],
+        "databases": [
+            {
+                "name": "MongoDB",
+                "level": 1
+            },
+            {
+                "name": "Oracle SQL",
+                "level": 0
+            },
+            {
+                "name": "Qdrant",
+                "level": 0
+            },
+            {
+                "name": "PostgreSQL",
+                "level": 0
+            }
+        ],
+        "practices": [
+            {
+                "name": "Agile",
+                "level": 0
+            },
+            {
+                "name": "TDD",
+                "level": 0
+            },
+            {
+                "name": "MVC",
+                "level": 0
+            },
+            {
+                "name": "PWA",
+                "level": 0
+            },
+            {
+                "name": "RAG",
+                "level": 0
+            }
+        ],
+        "tools": [
+            {
+                "name": "Git",
+                "level": 3
+            },
+            {
+                "name": "Docker",
+                "level": 1
+            },
+            {
+                "name": "Postman",
+                "level": 0
+            },
+            {
+                "name": "DevTools",
+                "level": 0
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "ADP Inc. ",
+            "position": "GPT Program Trainer -  Contract",
+            "url": "",
+            "startDate": "2023-05-15T07:00:00.000Z",
+            "endDate": "2024-09-17T08:13:20.000Z",
+            "years": "4 months",
+            "highlights": [],
+            "summary": "<ul><li>Delivered in-depth coursework on full-stack development, emphasizing the <strong>MERN </strong>stack&nbsp;(<strong>MongoDB, Express.js, React.js, Node.js</strong>)</li><li>Instruction on <strong>RESTful API</strong> development, and integration.&nbsp;</li><li>Provided in-depth training on <strong>Sequelize ORM</strong> for relational databases and <strong>Mongoose ORM</strong> for <strong>NoSQL</strong> databases.</li><li>Guided students through the complexities of <strong>Apollo GraphQL API</strong> development, including setting up <strong>GraphQL</strong> schemas, writing <strong>queries</strong> and <strong>mutations</strong>, and integrating <strong>Apollo Client.</strong>&nbsp;</li><li>Taught&nbsp;<strong>test-driven development</strong> (<strong>TDD</strong>) using frameworks like <strong>Jest</strong> and <strong>Cypress</strong>, emphasizing unit, integration, and <strong>end-to-end testing</strong> for building reliable, scalable applications.</li><li>Introduced modern <strong>DevOps</strong> practices such as setting up <strong>CI/CD pipelines</strong> with <strong>CircleCI</strong> and <strong>GitHub Actions</strong>, as well as automating testing and deployment for quality software release cycles.</li></ul>",
+            "isWorkingHere": false
+        },
+        {
+            "name": "2U Inc.",
+            "position": "Instructional Specialist - Part Time",
+            "url": "",
+            "startDate": "2021-11-22T05:00:00.000Z",
+            "endDate": "present",
+            "years": "3 Years",
+            "highlights": [],
+            "summary": "<ul><li>Delivered instruction on <strong>Java Spring Boot</strong> for enterprise-level API development, focusing on <strong>Repository CRUD methods</strong>, <strong>Service layers</strong>, <strong>Routing</strong>, and secure authentication using <strong>JWT</strong> and <strong>Bcrypt</strong>.</li><li>Led lessons on <strong>Oracle SQL</strong>, covering <strong>Stored Procedures</strong>, <strong>Triggers</strong>, <strong>Views</strong>, and creating auditing mechanisms for data integrity and compliance.</li><li>Guided students through full-stack development, emphasizing <strong>React</strong> with <strong>Role-Based MVC</strong>, and <strong>Microservices</strong> for scalable, modular applications.</li><li>Taught the full development lifecycle with <strong>Maven</strong> and <strong>Spring Boot</strong>, ensuring production-ready applications with <strong>logging</strong> and auditing aligned to enterprise standards.</li><li>Mentored teams in applying <strong>Agile methodologies</strong> with <strong>Jira</strong>, promoting collaborative problem-solving through <strong>sprint reviews</strong> and project audits.</li><li>Developed critical <strong>soft skills</strong> like <strong>communication</strong>, <strong>teamwork</strong>, and <strong>problem-solving</strong>, preparing students for professional roles with a focus on <strong>accountability</strong> and <strong>quality assurance</strong> in tech-driven environments.</li></ul>",
+            "isWorkingHere": true
+        },
+        {
+            "name": "Freelance Developer",
+            "position": "Full-Stack Developer -  Consultant",
+            "url": "",
+            "startDate": "2020-05-19T04:00:00.000Z",
+            "endDate": "May 2022",
+            "years": "4 years",
+            "highlights": [],
+            "summary": "<ul><li>Developed full-stack applications with <strong>Cloudflare SDK</strong> and <strong>Remix Run</strong>, leveraging Cloudflare<strong> D1 </strong>for database management and Cloudflare <strong>KVs</strong> for secure session storage.</li><li>Managed <strong>Cloudflare Workers</strong> using <strong>Wrangler CLI</strong>, integrating loaders and actions to deliver modern, dynamic web applications.</li><li>Conducted <strong>API testing</strong> using <strong>Insomnia</strong> and developed robust APIs and <strong>microservices</strong> with <strong>Python</strong> <strong>FastAPI</strong>. Implemented <strong>Retrieval Augmented Generation</strong> (<strong>RaG</strong>) leveraging <strong>LlamaIndex</strong>, <strong>Qdrant</strong>, and <strong>Gemini API</strong> to enable advanced, AI-driven functionality for enhanced application performance.</li><li>Integrated <strong>Amazon Textract</strong> for extracting&nbsp; data from documents.</li></ul>",
+            "isWorkingHere": true
+        }
+    ],
+    "education": [
+        {
+            "institution": "Texas Southern University",
+            "url": "http://www.tsu.edu/",
+            "studyType": "BA, MS",
+            "area": "Computer Science",
+            "startDate": "2018",
+            "endDate": "Current",
+            "score": "",
+            "courses": [],
+            "isStudyingHere": true
+        },
+        {
+            "institution": "SANS Institute",
+            "studyType": "Certifications",
+            "area": "Cyber Security",
+            "startDate": "2023-08-07T08:11:50.000Z",
+            "isStudyingHere": true,
+            "endDate": null,
+            "id": "0.6355039403208067",
+            "url": "",
+            "courses": [],
+            "score": ""
+        }
+    ],
+    "activities": {
+        "involvements": "",
+        "achievements": "<ul><li>Completed <strong>Software Development</strong>&nbsp;<strong>&amp; Cybersecurity</strong> Boot Camps at <em>Univeristy of Texas Austin</em> and <strong>UX/UI</strong> Boot Camp at <em>University of North Carolina</em>.&nbsp;</li><li><em><strong>GIAC Certifications</strong></em>: <strong>GFACT</strong>, <strong>GSEC</strong>. Currently pursuing <strong>GCIH</strong></li></ul>"
+    },
+    "volunteer": [],
+    "awards": []
+}

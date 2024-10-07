@@ -1,0 +1,225 @@
+{
+    "basics": {
+        "name": "Tajae Johnson",
+        "label": "Security Analyst",
+        "image": "https://i.ibb.co/KXwbCHM/headshot.png",
+        "email": "TajaeJohnson@proton.me",
+        "phone": "+1 (213) 316 8984",
+        "url": "www.github.com/vTajae/",
+        "summary": "<p>As a Computer Science connoisseur, I specialize in Object-Oriented Programming, web development, and server-side technologies, with strong knowledge of network security and encryption. Transitioning into cybersecurity, I leverage my development background to address challenges with a focus on incident response, prioritizing both efficiency and security.</p>",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Houston, Texas",
+            "countryCode": "",
+            "region": ""
+        },
+        "relExp": "2 years",
+        "totalExp": "4 Years",
+        "objective": "<p>I aim to build expertise in reverse engineering and assembly language to enhance my threat-hunting skills and protect enterprise systems from evolving threats. I am committed to staying at the forefront of cybersecurity and aspire to manage enterprise-level security infrastructures. I plan to leverage my development background to streamline security processes and adapt to the fast-changing landscape.</p>",
+        "profiles": [
+            {
+                "network": "linkedin",
+                "username": "TajaeJohnson",
+                "url": "https://www.linkedin.com/in/tajaejohnson/"
+            },
+            {
+                "network": "twitter",
+                "username": "janedoe",
+                "url": ""
+            },
+            {
+                "network": "github",
+                "username": "vTajae",
+                "url": "https://github.com/vTajae/"
+            },
+            {
+                "network": "hackerrank",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "hackerearth",
+                "username": "janedoe",
+                "url": ""
+            },
+            {
+                "network": "codechef",
+                "username": "janedoe",
+                "url": ""
+            },
+            {
+                "network": "leetcode",
+                "username": "",
+                "url": "https://leetcode.com/u/vTajae/"
+            }
+        ]
+    },
+    "skills": {
+        "languages": [
+            {
+                "name": "Python",
+                "level": 76
+            },
+            {
+                "name": "PowerShell",
+                "level": 70
+            },
+            {
+                "name": "Java",
+                "level": 60
+            },
+            {
+                "name": "C",
+                "level": 40
+            },
+            {
+                "name": "Assembly",
+                "level": 30
+            }
+        ],
+        "frameworks": [
+            {
+                "name": "OWASP",
+                "level": 90
+            }
+        ],
+        "technologies": [
+            {
+                "name": "Linux",
+                "level": 0
+            },
+            {
+                "name": "Windows",
+                "level": 0
+            },
+            {
+                "name": "Azure",
+                "level": 0
+            },
+            {
+                "name": "AWS",
+                "level": 0
+            },
+            {
+                "name": "Ghidra",
+                "level": 0
+            },
+            {
+                "name": "Splunk",
+                "level": 0
+            },
+            {
+                "name": "Hydra",
+                "level": 0
+            }
+        ],
+        "libraries": [],
+        "databases": [
+            {
+                "name": "Redis",
+                "level": 0
+            }
+        ],
+        "practices": [
+            {
+                "name": "Defensive Programming",
+                "level": 0
+            },
+            {
+                "name": "Blue Team",
+                "level": 0
+            },
+            {
+                "name": "Zero Trust",
+                "level": 0
+            },
+            {
+                "name": "PICERL",
+                "level": 0
+            },
+            {
+                "name": "DiD",
+                "level": 0
+            },
+            {
+                "name": "GRC",
+                "level": 0
+            }
+        ],
+        "tools": [
+            {
+                "name": "Git",
+                "level": 3
+            },
+            {
+                "name": "Docker",
+                "level": 1
+            },
+            {
+                "name": "DevTools",
+                "level": 0
+            },
+            {
+                "name": "Terminal",
+                "level": 0
+            },
+            {
+                "name": "MITRE ATT&CK",
+                "level": 0
+            },
+            {
+                "name": "Vim",
+                "level": 0
+            },
+            {
+                "name": "Metasploit",
+                "level": 0
+            }
+        ]
+    },
+    "work": [
+        {
+            "id": "0.4821698071168179",
+            "name": "SANS Institute",
+            "position": "Cybersecurity Trainee | Cyber Immersion Bootcamp",
+            "startDate": "2023-09-14T01:28:46.000Z",
+            "isWorkingHere": false,
+            "endDate": "2024-11-23T02:28:51.000Z",
+            "summary": "<ul><li>Gained practical knowledge of hardware components, memory structures, and <strong>virtualization</strong> technologies like <strong>Docker</strong> and <strong>VMware</strong>.</li><li>Mastered essential <strong>Linux</strong> and <strong>Windows CLI</strong> commands, <strong>UAC</strong>, and networking to secure systems.</li><li>Conducted <strong>memory forensics</strong> and disk analysis using&nbsp; <strong>Volatility</strong>, focusing on <strong>attacker persistence</strong>, <strong>lateral movement</strong>, and <strong>data exfiltration</strong>.</li><li>Acquired proficiency in <strong>TCP/IP</strong>, <strong>DNS</strong>, and the <strong>OSI model</strong>. Used <strong>Wireshark</strong> for traffic analysis and <strong>Nmap</strong> for network scanning.</li><li>Applied cryptographic techniques (<strong>symmetric/asymmetric encryption</strong>, <strong>PKI</strong>, <strong>VPNs</strong>) and <strong>steganography</strong> for secure communication.</li><li>Implemented layered security strategies using <strong>firewalls</strong>, <strong>HIDS</strong>, and <strong>NIDS</strong>, applying principles of <strong>defense in depth</strong> to protect systems.</li><li>Configured and monitored <strong>SIEM</strong> systems like <strong>Splunk</strong> and <strong>Zeek</strong> for log analysis and <strong>RITA</strong> real-time threat detection.</li><li>Applied the <strong>PICERL</strong> process to handle incidents,&nbsp;and <strong>mitigated post-exploitation attacks</strong> (e.g., persistence, exfiltration) across network and cloud environments using LivingOffTheLand (<strong>LOTL</strong>)&nbsp;and <strong>PowerShell</strong>.</li><li>Performed penetration testing using <strong>Metasploit</strong>, <strong>Mimikatz</strong>, <strong>Hydra</strong>, and <strong>NetCat</strong> to detect and remediate network and host vulnerabilities.</li><li>Simulated <strong>drive-by attacks</strong> and applied mitigation strategies.</li><li>Secured cloud infrastructures in <strong>Azure</strong> and <strong>AWS</strong> using <strong>Azure Security</strong> <strong>Center</strong> and <strong>CloudTrail</strong>.</li><li>Applied<strong> Windows Group Policy</strong> and Linux hardening techniques to secure systems. </li><li>Protected web applications against <strong>SQL Injection</strong>, <strong>XSS</strong>, and <strong>CSRF</strong> using secure coding practices and <strong>SSL/TLS encryption</strong>.</li></ul>",
+            "url": "",
+            "years": "1 Year",
+            "highlights": []
+        },
+        {
+            "name": "2U Inc.",
+            "position": "Instructional Specialist",
+            "url": "",
+            "startDate": "2021-11-22T05:00:00.000Z",
+            "endDate": "present",
+            "years": "3 Years",
+            "highlights": [],
+            "summary": "<ul><li>Led penetration testing workshops with <strong>Metasploit</strong>, <strong>Burp Suite</strong>, and <strong>OWASP ZAP</strong>, covering <strong>SQL Injection</strong>, <strong>XSS</strong>, and <strong>CSRF</strong>. Integrated <strong>OWASP Top Ten</strong> for secure coding and vulnerability prevention.</li><li>Conducted labs with <strong>Autopsy</strong>, enabling students to perform memory and disk forensics. Taught <strong>chain-of-custody</strong> protocols and evidence integrity practices for <strong>incident response</strong>.</li><li>Instructed on securing <strong>Azure</strong> infrastructures, configuring <strong>Azure Security Center</strong> and <strong>Azure Sentinel</strong>. Integrated <strong>Splunk</strong> for <strong>SIEM</strong> and real-time log analysis, emphasizing <strong>NSG</strong> setup and automated deployment via Azure CLI and <strong>ARM templates</strong>.</li><li>Led training on <strong>MITRE ATT&amp;CK</strong> and threat modeling, mapping <strong>CVEs</strong> to mitigation strategies. Taught CVE research and <strong>NIST CVSS</strong> vulnerability assessment, aligning vulnerabilities with patching priorities.</li><li>Facilitated <strong>security awareness </strong>programs on social engineering, phishing, and data protection. Delivered mitigations such as <strong>MFA</strong>, <strong>RBAC</strong>, and <strong>EDR</strong> to strengthen organizational security posture.</li></ul>",
+            "isWorkingHere": true
+        }
+    ],
+    "education": [
+        {
+            "institution": "Texas Southern University",
+            "url": "http://www.tsu.edu/",
+            "studyType": "BA, MS",
+            "area": "Computer Science",
+            "startDate": "2018",
+            "endDate": "Current",
+            "score": "",
+            "courses": [],
+            "isStudyingHere": true
+        }
+    ],
+    "activities": {
+        "involvements": "",
+        "achievements": "<ul><li>Completed <strong>Full Stack &amp; Cybersecurity </strong>Boot Camps at <em>UT Austin</em>, with proficiency in programming, web development, network security, encryption, and incident response.</li><li>Currently attending <em>SANS</em> <em>Institute</em> on scholarship. Obtained:&nbsp;<strong>GSEC</strong>,&nbsp;<strong>GFACT.</strong></li><li>Currently pursuing <strong>GCIH - </strong><em>Testing Nov 2024&nbsp;&nbsp;</em></li></ul>"
+    },
+    "volunteer": [],
+    "awards": []
+}
