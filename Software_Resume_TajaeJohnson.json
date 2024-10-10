@@ -189,26 +189,26 @@
     },
     "work": [
         {
-            "name": "ADP Inc. ",
-            "position": "GPT Program Trainer -  Contract",
-            "url": "",
-            "startDate": "2023-05-15T07:00:00.000Z",
-            "endDate": "2024-09-17T08:13:20.000Z",
-            "years": "4 months",
-            "highlights": [],
-            "summary": "<ul><li>Delivered in-depth coursework on full-stack development, emphasizing the <strong>MERN </strong>stack&nbsp;(<strong>MongoDB, Express.js, React.js, Node.js</strong>)</li><li>Instruction on <strong>RESTful API</strong> development, and integration.&nbsp;</li><li>Provided in-depth training on <strong>Sequelize ORM</strong> for relational databases and <strong>Mongoose ORM</strong> for <strong>NoSQL</strong> databases.</li><li>Guided students through the complexities of <strong>Apollo GraphQL API</strong> development, including setting up <strong>GraphQL</strong> schemas, writing <strong>queries</strong> and <strong>mutations</strong>, and integrating <strong>Apollo Client.</strong>&nbsp;</li><li>Taught&nbsp;<strong>test-driven development</strong> (<strong>TDD</strong>) using frameworks like <strong>Jest</strong> and <strong>Cypress</strong>, emphasizing unit, integration, and <strong>end-to-end testing</strong> for building reliable, scalable applications.</li><li>Introduced modern <strong>DevOps</strong> practices such as setting up <strong>CI/CD pipelines</strong> with <strong>CircleCI</strong> and <strong>GitHub Actions</strong>, as well as automating testing and deployment for quality software release cycles.</li></ul>",
-            "isWorkingHere": false
-        },
-        {
             "name": "2U Inc.",
             "position": "Instructional Specialist - Part Time",
             "url": "",
-            "startDate": "2021-11-22T05:00:00.000Z",
-            "endDate": "present",
+            "startDate": "2021-11-17T08:00:00.000Z",
+            "endDate": "2024-09-17T08:13:20.000Z",
             "years": "3 Years",
             "highlights": [],
-            "summary": "<ul><li>Delivered instruction on <strong>Java Spring Boot</strong> for enterprise-level API development, focusing on <strong>Repository CRUD methods</strong>, <strong>Service layers</strong>, <strong>Routing</strong>, and secure authentication using <strong>JWT</strong> and <strong>Bcrypt</strong>.</li><li>Led lessons on <strong>Oracle SQL</strong>, covering <strong>Stored Procedures</strong>, <strong>Triggers</strong>, <strong>Views</strong>, and creating auditing mechanisms for data integrity and compliance.</li><li>Guided students through full-stack development, emphasizing <strong>React</strong> with <strong>Role-Based MVC</strong>, and <strong>Microservices</strong> for scalable, modular applications.</li><li>Taught the full development lifecycle with <strong>Maven</strong> and <strong>Spring Boot</strong>, ensuring production-ready applications with <strong>logging</strong> and auditing aligned to enterprise standards.</li><li>Mentored teams in applying <strong>Agile methodologies</strong> with <strong>Jira</strong>, promoting collaborative problem-solving through <strong>sprint reviews</strong> and project audits.</li><li>Developed critical <strong>soft skills</strong> like <strong>communication</strong>, <strong>teamwork</strong>, and <strong>problem-solving</strong>, preparing students for professional roles with a focus on <strong>accountability</strong> and <strong>quality assurance</strong> in tech-driven environments.</li></ul>",
+            "summary": "<ul><li>Delivered in-depth coursework on full-stack development, emphasizing the <strong>MERN </strong>stack&nbsp;(<strong>MongoDB, Express.js, React.js, Node.js</strong>)</li><li>Instruction on <strong>RESTful API</strong> development, and integration.&nbsp;</li><li>Provided in-depth training on <strong>Sequelize ORM</strong> for relational databases and <strong>Mongoose ORM</strong> for <strong>NoSQL</strong> databases.</li><li>Guided students through the complexities of <strong>Apollo GraphQL API</strong> development, including setting up <strong>GraphQL</strong> schemas, writing <strong>queries</strong> and <strong>mutations</strong>, and integrating <strong>Apollo Client.</strong>&nbsp;</li><li>Taught&nbsp;<strong>test-driven development</strong> (<strong>TDD</strong>) using frameworks like <strong>Jest</strong> and <strong>Cypress</strong>, emphasizing unit, integration, and <strong>end-to-end testing</strong> for building reliable, scalable applications.</li><li>Introduced modern <strong>DevOps</strong> practices such as setting up <strong>CI/CD pipelines</strong> with <strong>CircleCI</strong> and <strong>GitHub Actions</strong>, as well as automating testing and deployment for quality software release cycles.</li></ul>",
             "isWorkingHere": true
+        },
+        {
+            "name": "ADP Inc. ",
+            "position": "GPT Program Trainer -  Contract",
+            "url": "",
+            "startDate": "2023-05-22T04:00:00.000Z",
+            "endDate": "2024-09-18T00:13:16.000Z",
+            "years": "4 Months",
+            "highlights": [],
+            "summary": "<ul><li>Delivered instruction on <strong>Java Spring Boot</strong> for enterprise-level API development, focusing on <strong>Repository CRUD methods</strong>, <strong>Service layers</strong>, <strong>Routing</strong>, and secure authentication using <strong>JWT</strong> and <strong>Bcrypt</strong>.</li><li>Led lessons on <strong>Oracle SQL</strong>, covering <strong>Stored Procedures</strong>, <strong>Triggers</strong>, <strong>Views</strong>, and creating auditing mechanisms for data integrity and compliance.</li><li>Guided students through full-stack development, emphasizing <strong>React</strong> with <strong>Role-Based MVC</strong>, and <strong>Microservices</strong> for scalable, modular applications.</li><li>Taught the full development lifecycle with <strong>Maven</strong> and <strong>Spring Boot</strong>, ensuring production-ready applications with <strong>logging</strong> and auditing aligned to enterprise standards.</li><li>Mentored teams in applying <strong>Agile methodologies</strong> with <strong>Jira</strong>, promoting collaborative problem-solving through <strong>sprint reviews</strong> and project audits.</li><li>Developed critical <strong>soft skills</strong> like <strong>communication</strong>, <strong>teamwork</strong>, and <strong>problem-solving</strong>, preparing students for professional roles with a focus on <strong>accountability</strong> and <strong>quality assurance</strong> in tech-driven environments.</li></ul>",
+            "isWorkingHere": false
         },
         {
             "name": "Freelance Developer",
@@ -216,7 +216,7 @@
             "url": "",
             "startDate": "2020-05-19T04:00:00.000Z",
             "endDate": "May 2022",
-            "years": "4 years",
+            "years": "3 Years",
             "highlights": [],
             "summary": "<ul><li>Developed full-stack applications with <strong>Cloudflare SDK</strong> and <strong>Remix Run</strong>, leveraging Cloudflare<strong> D1 </strong>for database management and Cloudflare <strong>KVs</strong> for secure session storage.</li><li>Managed <strong>Cloudflare Workers</strong> using <strong>Wrangler CLI</strong>, integrating loaders and actions to deliver modern, dynamic web applications.</li><li>Conducted <strong>API testing</strong> using <strong>Insomnia</strong> and developed robust APIs and <strong>microservices</strong> with <strong>Python</strong> <strong>FastAPI</strong>. Implemented <strong>Retrieval Augmented Generation</strong> (<strong>RaG</strong>) leveraging <strong>LlamaIndex</strong>, <strong>Qdrant</strong>, and <strong>Gemini API</strong> to enable advanced, AI-driven functionality for enhanced application performance.</li><li>Integrated <strong>Amazon Textract</strong> for extracting&nbsp; data from documents.</li></ul>",
             "isWorkingHere": true
