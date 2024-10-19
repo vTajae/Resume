@@ -1,0 +1,84 @@
+[INST]
+
+---Background--- 
+Given this ATS infomation below:
+
+
+Your score is based on 20+ recruiter checks.
+The checks can be grouped into the four categories on the left.
+Your resume scored well in checks like Page density and Active voice.
+But your resume scored low in checks like Quantify impact and Unnecessary sections.
+
+
+ Overall : 43
+Breakdown
+Impact
+23
+Brevity
+96
+Style
+68
+Sections 
+
+
+
+Improving your bullet points will increase your score
+
+As you go through each resume check, we'll suggest ways to improve lines on your resume and boost your score. To make it easy for you, you'll get access to our Magic Write tool within your report. It's your resume writing partner whenever you're stuck.
+ Magic Write
+For example, take this line from your resume.
+Mentored teams in applying Agile methodologies with Jira, promotingncollaborative problem-solving through sprint reviews and project audits.
+It's an okay start. But, see this line we wrote for you:
+Guided cross-functional teams through tailored training on Agile practices; identified key bottlenecks within workflows which streamlined processes across three ongoing projects while fostering accountability among team members for quality outputs.
+
+
+
+Your resume scored 43 out of 100.
+
+This is a decent start, but there's clear room for improvement on your resume. It scored low on some key criteria hiring managers and resume screening software look for, but they can be easily improved. Let's dive into what we checked your resume for, and how you can improve your score.
+YOUR RESUME
+0
+TOP RESUMES
+.
+100
+
+  Your score is benchmarked against 1m+ resumes at your career level, and is based on 20+ key recruiter checks. The higher your resume score, the stronger your resume is and the more interviews you are likely to get.
+
+Categories
+Steps to increase my score:
+ -  Quantify impact
+Add more numbers to quantify your accomplishments
+  Impact
+Fix  
+- Unnecessary sections
+No unnecessary sections found
+  Sections
+
+ -  Summary section
+This check is only for Pro users. Upgrade to unlock this check
+  Sections
+
+
+
+We ran 20+ checks on your resume. Here's a rundown of three key areas you did well in - well done.
+Page density: Your page layout looks right.
+Active voice: Good use of the active voice on your resume.
+Verb tenses: Your action verbs are in the right tense.
+
+
+Sample resume bullet points
+Learn more  
+Line-by-line Analysis
+Review and improve your resume one line at a time.
+
+
+
+---Task--- 
+
+Please update this YAML data below:
+
+
+
+
+
+[/INST]
