@@ -23,25 +23,31 @@ An ATS friendly simple Typst CV template, inspired by [alta-typst by George Hone
    cd vantage-typst
    ```
 
-3. **Run Typst**:
+3. **Instalation**:
 
-   Use the following command to render your CV:
+Fedora Installation:
 
    ```bash
-   typst compile example.typ
+   sudo dnf copr enable claaj/typst
+   dnf install typst
    ```
 
-     ```bash
-   typst compile --font-path ./fonts/ example.typ 
+4.  **Run Typst**:
+
+    Use the following command to render your CV:
+
+   ```bash
+    typst compile --font-path ./fonts/ ./myTemplate/myTemplate.typ --root .
    ```
 
 
+    This will generate a PDF output in the same directory.
 
-   This will generate a PDF output in the same directory.
+    ```
 
-4. **Edit your CV**:
+5.  **Edit your CV**:
 
-   Open the `example.typ` file in your preferred text editor to customize the layout.
+    Open the `example.typ` file in your preferred text editor to customize the layout.
 
 ### Configuration
 
