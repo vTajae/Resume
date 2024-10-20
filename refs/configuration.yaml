@@ -1,0 +1,211 @@
+name: "Tajae Johnson"
+title: "Full Stack Developer | Software Engineer"
+address: "Houston, Texas"
+location: "United States"
+
+contacts:
+  - link: "https://www.linkedin.com/in/tajaejohnson/"
+    display: "TajaeJohnson"
+    name: "linkedin"
+  - link: "https://github.com/vTajae/"
+    display: "@vTajae"
+    name: "github"
+  - link: "https://leetcode.com/u/vTajae/"
+    display: "leetcode"
+    name: "leetcode"
+  - link: "mailto:TajaeJohnson@proton.me"
+    display: "TajaeJohnson@proton.me"
+    name: "protonmail"
+
+position: "Full Stack Developer"
+
+tagline: "Experienced Full Stack Developer with 5+ years of specialized skills in object-oriented programming, UI development, and DevOps. Focused on optimizing efficiency, performance, and security in scalable software solutions."
+
+objective: "Seeking to leverage 5+ years of full-stack development experience, specializing in MERN stack, Java Spring Boot, and API development, to build impactful software solutions within an innovative, growth-oriented organization."
+
+jobs:
+  - position: "Instructional Specialist"
+    company:
+      name: "2U Inc."
+      link: ""
+    product:
+      name: "MERN Stack Curriculum"
+      link: ""
+    description:
+      - Delivered coursework on full-stack development to over 100+ students, achieving a 95% course completion rate.
+      - Guided students through 20+ real-world projects, focusing on MERN stack, RESTful API development, and integration.
+      - Enhanced students' ORM skills by teaching Sequelize and Mongoose, resulting in a 20% improvement in test scores.
+      - Led development of scalable Apollo GraphQL APIs, reducing query complexity by 30%.
+      - Implemented CI/CD pipelines using CircleCI and GitHub Actions, reducing deployment time by 40%.
+    from: "November 2021"
+    to: "present"
+    tags:
+      - Full Stack Development
+      - MERN Stack
+      - RESTful APIs
+      - GraphQL
+      - TDD
+      - DevOps
+      - CI/CD Pipelines
+    location: "Remote"
+
+  - position: "GPT Program Trainer - Contract"
+    company:
+      name: "ADP Inc."
+      link: ""
+    product:
+      name: "Java Spring Boot Curriculum"
+      link: ""
+    description:
+      - Trained 50+ students in Java Spring Boot for API development, leading to a 15% increase in certification pass rates.
+      - Developed secure authentication systems using JWT and Bcrypt, reducing unauthorized access incidents by 25%.
+      - Optimized Oracle SQL procedures, triggers, and views, increasing database performance by 10%.
+      - Mentored teams in Microservices architecture and Agile practices, reducing deployment time by 30%.
+      - Facilitated Agile methodologies, improving sprint cycle completion rates by 20%.
+    from: "May 2023"
+    to: "September 2023"
+    tags:
+      - Java Spring Boot
+      - API Development
+      - Oracle SQL
+      - Microservices
+      - Agile Methodologies
+      - Maven
+      - JWT
+      - Bcrypt
+    location: "Remote"
+
+  - position: "Full Stack Developer - Consultant"
+    company:
+      name: "Freelance Developer"
+      link: ""
+    product:
+      name: "Custom Web Applications"
+      link: ""
+    description:
+      - Developed full-stack applications with Cloudflare SDK and Remix Run, improving page load speed by 35%.
+      - Managed secure session storage using Cloudflare KVs, reducing security vulnerabilities by 40%.
+      - Designed and tested APIs using Python FastAPI, reducing response time by 20% across projects.
+      - Integrated AI-driven solutions using LlamaIndex and Qdrant, boosting data retrieval accuracy by 15%.
+      - Automated document data extraction using Amazon Textract, reducing manual processing time by 50%.
+    from: "May 2020"
+    to: "present"
+    tags:
+      - Full Stack Development
+      - API Development
+      - Cloudflare
+      - Python FastAPI
+      - AI Integration
+      - Amazon Textract
+    location: "Remote"
+
+education:
+  - place:
+      name: "Texas Southern University"
+      link: "http://www.tsu.edu/"
+    degree: "BA, MS"
+    major: "Computer Science"
+    from: "2018"
+    to: "present"
+    location: "Houston, Texas"
+
+  - place:
+      name: "SANS Institute"
+      link: "http://www.sans.edu/"
+    degree: "Certifications"
+    major: "Cyber Security"
+    from: "2023"
+    to: "present"
+    location: ""
+
+technical_expertise:
+  - name: "TypeScript"
+    level: 5
+  - name: "Remix"
+    level: 5
+  - name: "Python"
+    level: 4
+  - name: "Java"
+    level: 4
+  - name: "Django"
+    level: 3
+  - name: "Maven"
+    level: 4
+  - name: "Node.js"
+    level: 5
+  - name: "Git"
+    level: 4
+  - name: "Docker"
+    level: 4
+
+skills:
+  - Full Stack Development
+  - MERN Stack
+  - RESTful APIs
+  - GraphQL
+  - Java Spring Boot
+  - Test-Driven Development (TDD)
+  - DevOps
+  - Agile Methodologies
+  - CI/CD Pipelines
+  - Microservices Architecture
+  - API Development
+  - Python FastAPI
+  - AI Integration
+  - Cloudflare
+
+methodology:
+  - Agile
+  - Test-Driven Development
+  - DevOps
+  - MVC Architecture
+  - Microservices Architecture
+
+tools:
+  - Git
+  - Docker
+  - Postman
+  - CircleCI
+  - GitHub Actions
+  - Jira
+  - Wrangler CLI
+
+achievements:
+  - name: "GIAC Certifications"
+    description: "Earned GFACT and GSEC certifications; currently pursuing GCIH."
+  - name: "Software Development & Cybersecurity Boot Camps"
+    description: "Completed Boot Camps at University of Texas Austin and UX/UI Boot Camp at University of North Carolina."
+
+keywords:
+  - Full Stack Development
+  - MERN Stack
+  - RESTful APIs
+  - Java Spring Boot
+  - API Development
+  - GraphQL
+  - Microservices
+  - Cloudflare
+  - Agile Methodologies
+  - Python FastAPI
+  - CI/CD Pipelines
+  - DevOps
+  - Test-Driven Development
+  - Oracle SQL
+  - AI Integration
+  - JWT
+  - Bcrypt
+  - GitHub Actions
+  - CircleCI
+  - Docker
+  - Postman
+  - Jira
+  - Software Development
+  - Certifications
+  - Agile Coaching
+  - ORM
+  - Sequelize
+  - Mongoose
+  - Apollo GraphQL
+  - Security
+  - Performance Optimization
+  - Data Retrieval

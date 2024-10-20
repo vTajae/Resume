@@ -1,26 +1,25 @@
-#import "vantage-typst.typ": findMe, vantage, term, skill, styled-link, bold_keywords_in_text
+#import "vantage-typst.typ": findMe, vantage, term, skill, styled-link, format_title, bold_keywords_in_text
 #let configuration = yaml("configuration.yaml")
 
 #vantage(
 
   [
+    == #configuration.name #h(15%) #findMe(configuration.direct)
+    
+    #configuration.title \
+    #configuration.address #h(1%)
+    #configuration.location #h(15%) #findMe(configuration.contacts)
 
-    == #configuration.name
-
-    #configuration.title #h(14%)
-    #configuration.address
-    #configuration.location
 
 
     == Experience
-
 
     #for job in configuration.jobs [
       === #job.position \
       _#link(job.company.link)[#job.company.name]_ - #styled-link(job.product.link)[#job.product.name] \
       #term[#job.from --- #job.to][#job.location]
 
-      // Loop through job descriptions and apply bolding logic
+
       #for point in job.description [
         - #bold_keywords_in_text(point, configuration.keywords)
       ]
@@ -28,11 +27,18 @@
 
     == Achievements/Certifications
 
+
+
     #for achievement in configuration.achievements [
       === #achievement.name
       \
-      #h(1%)#achievement.description
-      \
+      // #h(1%)#achievement.description
+      // \
+      #bold_keywords_in_text(achievement.description, configuration.keywords)
+       \
+
+
+
     ]
 
   ],
@@ -55,18 +61,44 @@
 
     == Skills/Exposure
 
-    #for skill in configuration.skills [
-      • #skill
-    ]
+    // #for skill in configuration.skills [
+    //   #exposure(skill) \
+    // ]
+
+
+    #let skills = configuration.skills
+    #let half = int((skills.len() + 1) / 2)
+
+    #set rect(
+      inset: 6pt,
+      width: 100%,
+      stroke: none,
+    )
+
+    #grid(
+      columns: (2fr, 2fr),
+      rows: (auto),
+      gutter: (-4pt),
+      rect[ #for skill in skills.slice(0, half) [
+          - #skill \
+        ]],
+      rect[#for skill in skills.slice(skills.len() - half, skills.len()) [
+          - #skill \
+        ]],
+    )
+
+
+
+
 
     == Methodology/Approach
     #for method in configuration.methodology [
-      • #method
+      • #method \
     ]
 
     == Tools
     #for tool in configuration.tools [
-      • #tool
+      • #tool #h(1%)
     ]
 
     == Education
@@ -77,9 +109,7 @@
       ] else [
         #edu.place.name\
       ]
-
-      #edu.from - #edu.to #h(1fr) #edu.location
-
+      #edu.from - #edu.to #h(1fr) #edu.location\
       #edu.degree in #edu.major
 
     ]

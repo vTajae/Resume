@@ -2,6 +2,15 @@
 #let link_colour = rgb("#123b8e")
 
 
+
+#let format_title(content) = text(
+      content,
+      fill: link_colour,
+      size: 11pt,
+      weight: "semibold",
+    )
+
+
 #let bold_keywords_in_text = (input_text, bold_keywords) => {
   let content = ""
   let index = 0
@@ -30,7 +39,6 @@
     }
 
     if not matched {
-      // Append the current character to the content
       content += input_text.at(index)
       index += 1
     }
@@ -121,6 +129,7 @@
 
   [\ ]
 }
+
 
 
 #let styled-link(dest, content) = emph(

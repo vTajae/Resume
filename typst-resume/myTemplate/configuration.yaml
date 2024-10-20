@@ -11,32 +11,38 @@ contacts:
     display: "@vTajae"
     name: "github"
   - link: "https://leetcode.com/u/vTajae/"
-    display: "leetcode"
+    display: "vTajae"
     name: "leetcode"
+
+direct:
   - link: "mailto:TajaeJohnson@proton.me"
     display: "TajaeJohnson@proton.me"
     name: "protonmail"
+  - link: "+12133168984"
+    display: "+1 (213) 316-8984"
+    name: "phone"
 
 position: "Full Stack Developer"
 
-tagline: "Experienced Full Stack Developer with 5+ years of specialized skills in object-oriented programming, UI development, and DevOps. Focused on optimizing efficiency, performance, and security in scalable software solutions."
+tagline: "Experienced Full Stack Developer with specialized skills in object-oriented programming, UI development, and DevOps. Focused on optimizing efficiency, performance, and security in scalable software solutions."
 
-objective: "Seeking to leverage 5+ years of full-stack development experience, specializing in MERN stack, Java Spring Boot, and API development, to build impactful software solutions within an innovative, growth-oriented organization."
+objective: "Seeking to leverage my skills in developing impactful solutions that optimize programming practices and improve the software development lifecycle within a company that values innovation and offers opportunities for growth."
 
 jobs:
   - position: "Instructional Specialist"
     company:
       name: "2U Inc."
-      link: ""
+      link: "https://2u.com/"
     product:
-      name: "MERN Stack Curriculum"
+      name: "Full Stack Software Development Bootcamp"
       link: ""
     description:
-      - Delivered coursework on full-stack development to over 100+ students, achieving a 95% course completion rate.
-      - Guided students through 20+ real-world projects, focusing on MERN stack, RESTful API development, and integration.
-      - Enhanced students' ORM skills by teaching Sequelize and Mongoose, resulting in a 20% improvement in test scores.
-      - Led development of scalable Apollo GraphQL APIs, reducing query complexity by 30%.
-      - Implemented CI/CD pipelines using CircleCI and GitHub Actions, reducing deployment time by 40%.
+      - Delivered comprehensive coursework on full-stack development focusing on the MERN stack (MongoDB, Express.js, React.js, Node.js).
+      - Instructed on RESTful API development and integration, enabling students to build scalable backend systems.
+      - Trained students in Sequelize ORM for relational databases and Mongoose ORM for NoSQL databases.
+      - Guided students in Apollo GraphQL API development, including GraphQL schemas, queries, mutations, and Apollo Client integration.
+      - Taught Test-Driven Development (TDD) using Jest and Cypress, emphasizing unit, integration, and end-to-end testing.
+      - Introduced DevOps practices by setting up CI/CD pipelines with CircleCI and GitHub Actions, automating testing and deployment.
     from: "November 2021"
     to: "present"
     tags:
@@ -46,22 +52,22 @@ jobs:
       - GraphQL
       - TDD
       - DevOps
-      - CI/CD Pipelines
     location: "Remote"
 
   - position: "GPT Program Trainer - Contract"
     company:
       name: "ADP Inc."
-      link: ""
+      link: "https://www.adp.com"
     product:
-      name: "Java Spring Boot Curriculum"
+      name: "Full Stack Microservices Curriculum"
       link: ""
     description:
-      - Trained 50+ students in Java Spring Boot for API development, leading to a 15% increase in certification pass rates.
-      - Developed secure authentication systems using JWT and Bcrypt, reducing unauthorized access incidents by 25%.
-      - Optimized Oracle SQL procedures, triggers, and views, increasing database performance by 10%.
-      - Mentored teams in Microservices architecture and Agile practices, reducing deployment time by 30%.
-      - Facilitated Agile methodologies, improving sprint cycle completion rates by 20%.
+      - Instructed on Java Spring Boot for API development, covering Repository CRUD methods, Service layers, Routing, and secure authentication using JWT and Bcrypt.
+      - Taught Oracle SQL including Stored Procedures, Triggers, Views, and auditing mechanisms for data integrity.
+      - Guided students in full-stack development with React, Role-Based MVC, and Microservices architecture.
+      - Educated students on the full development lifecycle using Maven and Spring Boot, focusing on production-ready applications with logging and auditing.
+      - Mentored teams in Agile methodologies using Jira, facilitating sprint reviews and project audits.
+      - Developed students' soft skills including communication, teamwork, and problem-solving.
     from: "May 2023"
     to: "September 2023"
     tags:
@@ -69,11 +75,9 @@ jobs:
       - API Development
       - Oracle SQL
       - Microservices
-      - Agile Methodologies
+      - Agile
       - Maven
-      - JWT
-      - Bcrypt
-    location: "Remote"
+    location: "Hybrid"
 
   - position: "Full Stack Developer - Consultant"
     company:
@@ -83,11 +87,11 @@ jobs:
       name: "Custom Web Applications"
       link: ""
     description:
-      - Developed full-stack applications with Cloudflare SDK and Remix Run, improving page load speed by 35%.
-      - Managed secure session storage using Cloudflare KVs, reducing security vulnerabilities by 40%.
-      - Designed and tested APIs using Python FastAPI, reducing response time by 20% across projects.
-      - Integrated AI-driven solutions using LlamaIndex and Qdrant, boosting data retrieval accuracy by 15%.
-      - Automated document data extraction using Amazon Textract, reducing manual processing time by 50%.
+      - Developed full-stack applications using Cloudflare SDK and Remix Run, utilizing Cloudflare D1 for database management and Cloudflare KVs for secure session storage.
+      - Managed Cloudflare Workers with Wrangler CLI, integrating loaders and actions for dynamic web applications.
+      - Conducted API testing using Insomnia; developed robust APIs and microservices with Python FastAPI.
+      - Implemented Retrieval Augmented Generation (RaG) using LlamaIndex, Qdrant, and Gemini API for AI-driven functionality.
+      - Integrated Amazon Textract for data extraction from documents.
     from: "May 2020"
     to: "present"
     tags:
@@ -96,7 +100,6 @@ jobs:
       - Cloudflare
       - Python FastAPI
       - AI Integration
-      - Amazon Textract
     location: "Remote"
 
 education:
@@ -116,7 +119,7 @@ education:
     major: "Cyber Security"
     from: "2023"
     to: "present"
-    location: ""
+    location: "Remote"
 
 technical_expertise:
   - name: "TypeScript"
@@ -127,40 +130,41 @@ technical_expertise:
     level: 4
   - name: "Java"
     level: 4
-  - name: "Django"
+  - name: "Linux"
     level: 3
-  - name: "Maven"
-    level: 4
   - name: "Node.js"
     level: 5
-  - name: "Git"
-    level: 4
   - name: "Docker"
     level: 4
+  - name: "Rust"
+    level: 1
 
 skills:
-  - Full Stack Development
-  - MERN Stack
+  - FastAPI
   - RESTful APIs
-  - GraphQL
-  - Java Spring Boot
-  - Test-Driven Development (TDD)
-  - DevOps
-  - Agile Methodologies
+  - Cloudflare SDK
+  - PostgreSQL
+  - MongoDB
   - CI/CD Pipelines
-  - Microservices Architecture
   - API Development
-  - Python FastAPI
-  - AI Integration
-  - Cloudflare
+  - Java Spring Boot
+  - GraphQL
+  - DevOps
+  - MERN
+  - RAG
+  - React
+  - Azure
+  - AWS
+  - Next.js
 
 methodology:
-  - Agile
+  - Agile | Scrum | Retrospectve
   - Test-Driven Development
-  - DevOps
-  - MVC Architecture
-  - Microservices Architecture
-
+  - Microservices
+  - Model View Controller - MVC
+  - Modularization
+  - Defensive Programming
+  - UBAC | RBAC
 tools:
   - Git
   - Docker
@@ -169,6 +173,12 @@ tools:
   - GitHub Actions
   - Jira
   - Wrangler CLI
+  - Powershell
+  - Huggingface
+  - Jest
+  - Vite
+  - NeoVim
+  - Typst
 
 achievements:
   - name: "GIAC Certifications"
@@ -200,7 +210,7 @@ keywords:
   - Postman
   - Jira
   - Software Development
-  - Certifications
+  - UX/UI
   - Agile Coaching
   - ORM
   - Sequelize
@@ -209,3 +219,18 @@ keywords:
   - Security
   - Performance Optimization
   - Data Retrieval
+  - GFACT
+  - GSEC
+  - GCIH
+  - D1
+  - KV
+  - Qdrant
+  - LlamaIndex
+  - Amazon Textract
+  - Remix Run
+  - SDK
+  - Spring Boot
+  - React
+  - Stored Procedures
+  - Views
+  - NoSQL
