@@ -27,23 +27,20 @@ An ATS friendly simple Typst CV template, inspired by [alta-typst by George Hone
 
 Fedora Installation:
 
-   ```bash
-   sudo dnf copr enable claaj/typst
-   dnf install typst
-   ```
+```bash
+sudo dnf copr enable claaj/typst
+dnf install typst
+```
 
 4.  **Run Typst**:
 
     Use the following command to render your CV:
 
-   ```bash
-    typst compile --font-path ./fonts/ ./myTemplate/myTemplate.typ --root .
-   ```
-
+```bash
+typst compile --font-path ./fonts/ ./typst-resume/myTemplate//myTemplate.typ --root .
+```
 
     This will generate a PDF output in the same directory.
-
-    ```
 
 5.  **Edit your CV**:
 
