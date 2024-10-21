@@ -1,4 +1,4 @@
-#import "vantage-typst.typ": findMe, vantage, term, skill, styled-link, format_title, bold_keywords_in_text
+#import "vantage-typst.typ": findMe, vantage, term, skill, styled-link, format_title , bold_keywords_in_text
 #let configuration = yaml("configuration.yaml")
 
 #vantage(
@@ -6,7 +6,7 @@
   [
     == #configuration.name #h(15%) #findMe(configuration.direct)
     
-    #configuration.title \
+    #format_title(configuration.title) \
     #configuration.address #h(1%)
     #configuration.location #h(15%) #findMe(configuration.contacts)
 
