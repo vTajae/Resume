@@ -37,8 +37,6 @@
       #bold_keywords_in_text(achievement.description, configuration.keywords)
        \
 
-
-
     ]
 
   ],
