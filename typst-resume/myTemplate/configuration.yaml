@@ -1,5 +1,5 @@
 name: "Tajae Johnson"
-title: "Security Analyst"
+title: "Full Stack Developer | Software Engineer"
 address: "Houston, Texas"
 location: "United States"
 
@@ -10,9 +10,9 @@ contacts:
   - link: "https://github.com/vTajae/"
     display: "@vTajae"
     name: "github"
-  # - link: "https://leetcode.com/u/vTajae/"
-  #   display: "vTajae"
-  #   name: "leetcode"
+  - link: "https://leetcode.com/u/vTajae/"
+    display: "vTajae"
+    name: "leetcode"
 
 direct:
   - link: "mailto:TajaeJohnson@proton.me"
@@ -22,59 +22,86 @@ direct:
     display: "+1 (213) 316-8984"
     name: "phone"
 
-position: "Security Analyst"
+position: "Full Stack Developer"
 
-tagline: "Experienced Full Stack Developer transitioning into cybersecurity, with a strong focus on object-oriented programming, network security, encryption, and incident response."
+tagline: "Driven by passion, forged by perseverance. From a young boy abroad to a self-taught engineer with unmatched perseverance. My journey is proof that curiosity, resilience, and an unyielding pursuit of knowledge can overcome any challenge. A story shaped by diverse cultures, relentless determination, and the drive to uplift others through technology. Despite setbacks, I find strength in every trial and success in every challenge—a testament to passion meeting purpose."
 
-objective: "I aim to build expertise in reverse engineering and assembly language to enhance my threat-hunting skills and protect enterprise systems from evolving threats. Passionate about emerging technologies, I aspire to manage enterprise-level security infrastructures and streamline security processes."
+objective: "Seeking to leverage my skills in developing impactful solutions that optimize programming practices and improve the software development lifecycle within a company that values innovation and offers opportunities for growth."
 
 jobs:
-  - position: "Cybersecurity Trainee"
-    company:
-      name: "SANS Institute"
-      link: "https://www.sans.edu/"
-    product:
-      name: "Cyber Immersion Bootcamp"
-      link: "https://www.sans.org/cyber-academy/"
-    description:
-      - Gained practical knowledge of hardware components, memory structures, and virtualization technologies like Docker and VMware.
-      - Mastered essential Linux and Windows CLI commands, UAC, and networking to secure systems.
-      - Conducted memory forensics and disk analysis using Volatility, focusing on attacker persistence, lateral movement, and data exfiltration.
-      - Performed network scanning with Nmap and traffic analysis using Wireshark.
-      - Applied cryptographic techniques including symmetric/asymmetric encryption, PKI, VPNs, and steganography.
-      - Configured and monitored SIEM systems like Splunk and Zeek for log analysis and real-time threat detection.
-      - Applied the PICERL process to mitigate post-exploitation attacks across network and cloud environments using PowerShell.
-      - Performed penetration testing using Metasploit, Mimikatz, Hydra, and NetCat to detect and remediate network vulnerabilities.
-      - Secured cloud infrastructures in Azure and AWS using Azure Security Center and CloudTrail.
-    from: "September 2023"
-    to: "November 2024"
-    tags:
-      - Linux
-      - Windows
-      - Virtualization
-      - Network Security
-      - Penetration Testing
-    location: "Remote"
-
   - position: "Instructional Specialist"
     company:
       name: "2U Inc."
       link: "https://2u.com/"
     product:
-      name: "Cybersecurity Bootcamp"
+      name: "Full Stack Software Development Bootcamp"
       link: ""
     description:
-      - Led penetration testing workshops with Metasploit, Burp Suite, and OWASP ZAP, covering SQL Injection, XSS, and CSRF.
-      - Instructed on securing Azure infrastructures with Azure Security Center and Sentinel.
-      - Facilitated labs with Autopsy for memory and disk forensics and taught chain-of-custody protocols.
-      - Taught CVE research, NIST CVSS vulnerability assessment, and mapping of vulnerabilities to patching priorities.
-      - Conducted security awareness programs on phishing, social engineering, and data protection.
+      - Delivered comprehensive coursework on full-stack development, focusing on the MERN stack (MongoDB, Express.js, React.js, Node.js), resulting in an average 20% improvement in student assessments.
+      - Instructed on RESTful API development and integration, enabling students to build scalable backend systems; 90% of students successfully completed and deployed project capstones.
+      - Trained students in Sequelize ORM for relational databases and Mongoose ORM for NoSQL databases, boosting database management proficiency by 25%.
+      - Guided students in Apollo GraphQL API development, including GraphQL schemas, queries, mutations, and Apollo Client integration, with a 15% higher retention rate in complex project modules.
+      - Taught Test-Driven Development (TDD) using Jest and Cypress, emphasizing unit, integration, and end-to-end testing; test coverage in student projects increased by an average of 30%.
+      - Introduced DevOps practices by setting up CI/CD pipelines with CircleCI and GitHub Actions, automating testing and deployment, leading to a 40% reduction in deployment errors.
     from: "November 2021"
-    to: "Present"
+    to: "present"
     tags:
-      - Cybersecurity
-      - Penetration Testing
-      - Cloud Security
+      - Full Stack Development
+      - MERN Stack
+      - RESTful APIs
+      - GraphQL
+      - TDD
+      - DevOps
+    location: "Remote"
+
+  - position: "GPT Program Trainer - Contract"
+    company:
+      name: "ADP Inc."
+      link: "https://www.adp.com"
+    product:
+      name: "Full Stack Microservices Curriculum"
+      link: ""
+    description:
+      - Instructed on Java Spring Boot for API development, covering Repository CRUD methods, Service layers, Routing, and secure authentication using JWT and Bcrypt; 80% of interns demonstrated API deployment proficiency.
+      - Taught Oracle SQL, including Stored Procedures, Triggers, Views, and auditing mechanisms for data integrity, resulting in a 25% increase in database project accuracy.
+      - Guided students in full-stack development with React, Role-Based MVC, and Microservices architecture; 70% of interns were able to build microservice-based applications within their first project cycle.
+      - Educated students on the full development lifecycle using Maven and Spring Boot, focusing on production-ready applications with logging and auditing, leading to a 50% faster deployment turnaround.
+      - Mentored teams in Agile methodologies using Jira, facilitating sprint reviews and project audits; 85% of interns reported improved productivity and understanding of Agile practices.
+      - Developed students' soft skills, including communication, teamwork, and problem-solving; over 60% of interns received positive peer feedback on collaboration.
+      - Over 75% of interns were converted to full-time positions, showcasing the effectiveness of the foundational training and mentorship.
+    from: "May 2023"
+    to: "September 2023"
+    tags:
+      - Java Spring Boot
+      - API Development
+      - Oracle SQL
+      - Microservices
+      - Agile
+      - Maven
+    location: "Hybrid"
+
+  - position: "Full Stack Developer - Consultant"
+    company:
+      name: "Freelance Developer"
+      link: ""
+    product:
+      name: "Custom Web Applications"
+      link: ""
+    description:
+      - Developed full-stack applications using Cloudflare SDK and Remix Run, utilizing Cloudflare D1 for database management and Cloudflare KVs for secure session storage, leading to a 30% reduction in client database access latency.
+      - Managed Cloudflare Workers with Wrangler CLI, integrating loaders and actions for dynamic web applications, resulting in a 40% faster response time for client websites.
+      - Conducted API testing using Insomnia; developed robust APIs and microservices with Python FastAPI, enabling clients to reduce manual workload by 25% and improve service reliability.
+      - Implemented Retrieval Augmented Generation (RaG) using LlamaIndex, Qdrant, and Gemini API for AI-driven functionality, which increased user engagement by 20% on client platforms.
+      - Integrated Amazon Textract for data extraction from documents, automating data processing and reducing manual input efforts by 50%.
+      - Streamlined client workflows, such as course catalog with payment systems and onboarding systems, resulting in an average 15% increase in client revenue and a 20% reduction in operational overhead.
+    from: "May 2020"
+    to: "present"
+    tags:
+      - Full Stack Development
+      - API Development
+      - Cloudflare
+      - Python FastAPI
+      - AI Integration
     location: "Remote"
 
 education:
@@ -84,104 +111,128 @@ education:
     degree: "BA, MS"
     major: "Computer Science"
     from: "2018"
-    to: "Present"
+    to: "present"
     location: "Houston, Texas"
 
   - place:
       name: "SANS Institute"
-      link: "https://www.sans.edu/"
+      link: "http://www.sans.edu/"
     degree: "Certifications"
     major: "Cyber Security"
     from: "2023"
-    to: "Present"
+    to: "present"
     location: "Remote"
-
-certifications:
-  - name: "GSEC"
-  - name: "GFACT"
-  - name: "Pursuing GCIH"
 
 technical_expertise:
   - name: "TypeScript"
     level: 5
+  - name: "Remix"
+    level: 5
   - name: "Python"
     level: 4
-  - name: "PowerShell"
-    level: 4
   - name: "Java"
+    level: 4
+  - name: "Linux"
     level: 3
-  - name: "Bash"
-    level: 3
+  - name: "Node.js"
+    level: 5
+  - name: "Docker"
+    level: 4
   - name: "Rust"
-    level: 2
-  - name: "Assembly"
-    level: 2
+    level: 1
 
 skills:
-  - Penetration Testing
-  - SIEM (Splunk, Zeek)
-  - Cloud Security (Azure, AWS)
-  - Incident Response
-  - Cryptography
-  - Memory Forensics
-  - OWASP
-  - SE Linux
-  - Automation
-
+  - FastAPI
+  - RESTful APIs
+  - Cloudflare SDK
+  - PostgreSQL
+  - MongoDB
+  - CI/CD Pipelines
+  - API Development
+  - Java Spring Boot
+  - GraphQL
+  - DevOps
+  - Material UI
+  - RAG
+  - React
+  - Azure
+  - AWS
+  - Next.js
 
 methodology:
-  - PICERL
-  - MITRE ATT&CK
-  - Zero Trust
-  - GRC
-  - Defense in Depth
+  - Agile | Scrum | Retrospectve
+  - Test-Driven Development
+  - Microservices
+  - Model View Controller - MVC
+  - Modularization
   - Defensive Programming
-
+  - UBAC | RBAC
 tools:
-  - Volatility
-  - Metasploit
-  - Burp Suite
-  - OWASP ZAP
-  - Wireshark
-  - Nmap
-  - Ghidra
-  - NetCat
-  - Mimikatz
+  - Git
+  - Docker
+  - Postman
+  - CircleCI
+  - GitHub Actions
+  - Jira
+  - Wrangler CLI
+  - Powershell
+  - Huggingface
+  - Jest
+  - Vite
+  - NeoVim
+  - Typst
 
 achievements:
   - name: "GIAC Certifications"
     description: "Earned GFACT and GSEC certifications; currently pursuing GCIH."
-  - name: "Full Stack & Cybersecurity Boot Camps"
-    description: "Completed Boot Camps at University of Texas Austin with proficiency in programming, web development, and network security."
+  - name: "Software Development & Cybersecurity Boot Camps"
+    description: "Completed Boot Camps at University of Texas Austin and UX/UI Boot Camp at University of North Carolina."
 
 keywords:
-  - Cloud Security
-  - Incident Response
-  - Cryptography
+  - Full Stack Development
+  - MERN Stack
+  - RESTful API
+  - Java Spring Boot
+  - API Development
+  - GraphQL
+  - Microservices
+  - Cloudflare
+  - Agile Methodologies
+  - Python FastAPI
+  - CI/CD Pipelines
+  - DevOps
+  - Test-Driven Development
+  - Oracle SQL
+  - AI Integration
+  - JWT
+  - Bcrypt
+  - GitHub Actions
+  - CircleCI
   - Docker
-  - Azure
-  - AWS
-  - GSEC
+  - Postman
+  - Jira
+  - Software Development
+  - UX/UI
+  - Agile Coaching
+  - ORM
+  - Sequelize
+  - Mongoose
+  - Apollo GraphQL
+  - Security
+  - Performance Optimization
+  - Data Retrieval
   - GFACT
+  - GSEC
   - GCIH
-  - OWASP ZAP
-  - Volatility
-  - Metasploit
-  - Reverse Engineering
-  - Quantum Computing
-  - CVE
-  - NIST
-  - Splunk
-  - UAC
-  - Zeek
-  - PICERL
-  - Hydra
-  - CloudTrail
-  - NetCat
-  - Nmap
-  - Linux
-  - SQL
-  - XSS
-  - CSRF
-  - Autopsy
-  - PKI
+  - D1
+  - KV
+  - Qdrant
+  - LlamaIndex
+  - Amazon Textract
+  - Remix Run
+  - SDK
+  - Spring Boot
+  - React
+  - Stored Procedures
+  - Views
+  - NoSQL

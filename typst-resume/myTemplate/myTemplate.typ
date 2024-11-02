@@ -47,9 +47,9 @@
 
     #configuration.tagline
 
-    == Objective
+    // == Objective
 
-    #configuration.objective
+    // #configuration.objective
 
     == Technical Expertise
 

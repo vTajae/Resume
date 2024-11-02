@@ -28,7 +28,8 @@
       if index + kw_len <= input_len {
         let substr = input_text.slice(index, index + kw_len)
 
-        if lower(substr) == lower(kw) {
+        // Case-sensitive comparison
+        if substr == kw {
           // Append the bolded keyword to the content
           content += strong(substr)
           index += kw_len
@@ -46,7 +47,6 @@
 
   content
 }
-
 
 
 #let icon(name, shift: 1.5pt) = {
